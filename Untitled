@@ -1,2 +1,1 @@
-resource "aws_instance" "app_server" {
-change**
+resource "aws_instance" "app_server" 
